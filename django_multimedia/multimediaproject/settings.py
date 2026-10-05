@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-nsc5wwfc_6_pm68dpdnpy4#2leof-i2-8xl!-=4qd@@cx9b8r@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-multimedia-hub.onrender.com', 'localhost', '127.0.0.1', '*']
 
 
 # Application definition
