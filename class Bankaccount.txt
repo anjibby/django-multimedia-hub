@@ -1,0 +1,8 @@
+class Bankaccount:
+   def__init__(self,balance)
+      self._balance=balance
+def deposit(self,amount)
+    if amount > 0:
+          self.__balance += amount
+def get__ balance(self)
+    return self.__balance
